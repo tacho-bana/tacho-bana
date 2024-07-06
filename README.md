@@ -1,7 +1,9 @@
 ## Profile
 武蔵野大学データサイエンス学部2年(27卒)
+
+
 ・Twitter→https://x.com/4fEgc
-![Twitter: 4fEgc](https://img.shields.io/twitter/follow/4fEgc?style=social)
+[![Twitter: 4fEgc](https://img.shields.io/twitter/follow/4fEgc?style=social)]
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
