@@ -3,10 +3,8 @@
 
 
 ・Twitter→https://x.com/4fEgc
-[![Twitter: 4fEgc](https://img.shields.io/twitter/follow/4fEgc?style=social)]
+![Twitter: 4fEgc](https://img.shields.io/twitter/follow/4fEgc?style=social)
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tacho-bana&show_icons=true&locale=en&layout=compact)
 
