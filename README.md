@@ -1,6 +1,8 @@
 ## My Profile
 武蔵野大学データサイエンス学部2年(27卒)
+
 未来創造PJ 学科賞
+
 DEIM2025 学生プレゼンテーション賞
 
 ・Twitter→https://x.com/4fEgc
